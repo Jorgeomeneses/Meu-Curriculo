@@ -19,4 +19,7 @@ Usado na aula 02 de git
 por exemplo, git pull origin main
 
 ---
---
+---
+Agora voce altera e/ou cria os arquivos conforme a solicitacao do cliente e depois segue o processo abaixo
+
+---
