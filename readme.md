@@ -13,3 +13,10 @@ Usado na aula 02 de git
 
 ## Para voltar pro branch principal
 `git checkout main
+
+## Para atualizar o branch
+`gitpull origin nome-da-branch`
+por exemplo, git pull origin main
+
+---
+--
