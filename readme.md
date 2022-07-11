@@ -10,3 +10,6 @@ Usado na aula 02 de git
 
 ## Para enviar o git
 `git push origin nomw-da-branch`(main, develop,etc)
+
+## Para voltar pro branch principal
+`git checkout main
